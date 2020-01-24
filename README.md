@@ -1,5 +1,6 @@
-### o
+### solarcoin
 ---
+https://github.com/solarcoin
 
 
 ```
